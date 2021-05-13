@@ -1,3 +1,8 @@
 # Utility-Application
-<li>Code:- https://replit.com/@Anmol01Joshi/Utility-Application#index.js</li>
-<li><Demo:- https://replit.com/@Anmol01Joshi/Utility-Application?lite=1&outputonly=1 </li>
+<ul>
+  <li>Code on repl.it https://replit.com/@Anmol01Joshi/Utility-Application#index.js< <br /></li>
+  <li>Output on repl.it https://replit.com/@Anmol01Joshi/Utility-Application?lite=1&outputonly=1 <br /></li>
+</ul>
+
+  
+  
