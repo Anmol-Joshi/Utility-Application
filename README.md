@@ -1,4 +1,4 @@
-# Utility-Application:
+# Utility-Application:Command Line Application with the following utilities:-
 1. URL Encoder/Decoder
 2. Base64 Encoding/Decoding
 3. String hashing
